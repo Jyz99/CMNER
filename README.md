@@ -4,6 +4,7 @@ Each post is composed of a text and relevant images. Every text has an unique "w
 # Citation
 If you find this code to be useful for your research, please consider citing.
 <pre>
+https://arxiv.org/abs/2402.13693
 @misc{ji2024cmner,
       title={CMNER: A Chinese Multimodal NER Dataset based on Social Media}, 
       author={Yuanze Ji and Bobo Li and Jun Zhou and Fei Li and Chong Teng and Donghong Ji},
